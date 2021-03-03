@@ -23,6 +23,32 @@ namespace imageMatch
         public MainWindow()
         {
             InitializeComponent();
+            SetUpGame();
+        }
+
+        private void SetUpGame()
+        {
+            List<string> emojis = new List<string>()
+            {
+                "😨", "😨",
+                "😊", "😊",
+                "😩", "😩",
+                "🤨", "🤨",
+                "😀", "😀",
+                "🥰", "🥰",
+                "🤔", "🤔",
+                "😔", "😔",
+            };
+
+            Random random = new Random();
+
+            foreach (TextBlock textBlock in mainGrid.Children.OfType<TextBlock>())
+            {
+                int index = random.Next(emojis.Count);
+                string nextEmoji = emojis[index];
+                textBlock.Text = nextEmoji;
+                emojis.RemoveAt(index);
+            }
         }
     }
 }

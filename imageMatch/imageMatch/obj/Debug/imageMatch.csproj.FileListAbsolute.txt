@@ -1,0 +1,15 @@
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\bin\Debug\imageMatch.exe.config
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\bin\Debug\imageMatch.exe
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\bin\Debug\imageMatch.pdb
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch.csprojAssemblyReference.cache
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\MainWindow.g.cs
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\App.g.cs
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch_MarkupCompile.cache
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch_MarkupCompile.lref
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\MainWindow.baml
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch.g.resources
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch.Properties.Resources.resources
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch.csproj.GenerateResource.cache
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch.csproj.CoreCompileInputs.cache
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch.exe
+C:\src\c#\ImageMatch\imageMatch\imageMatch\imageMatch\obj\Debug\imageMatch.pdb
